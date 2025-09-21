@@ -74,5 +74,7 @@ plt.legend()
 plt.show()
 ```
 
-# =============================== ✅ SLR Completed ===============================
+# SLR Completed
+```python
 print("✅ Simple Linear Regression Completed Successfully!")  
+```
