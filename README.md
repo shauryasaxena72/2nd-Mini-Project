@@ -76,5 +76,5 @@ plt.show()
 
 # SLR Completed
 ```python
-print("✅ Simple Linear Regression Completed Successfully!")  
+print("Simple Linear Regression Completed Successfully!")  
 ```
